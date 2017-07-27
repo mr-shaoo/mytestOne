@@ -1,0 +1,16 @@
+{
+    "name": "aaa/wddd",
+    "description": "wqdqwdqwdqw",
+    "type": "ff",
+    "require": {
+        "yiisoft/yii2-bootstrap": "^2.0"
+    },
+    "license": "ee",
+    "authors": [
+        {
+            "name": "usernmae111",
+            "email": "9232@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

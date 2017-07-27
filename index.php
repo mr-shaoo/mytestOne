@@ -1,4 +1,6 @@
 <?php
 
-echo 'dasdas';
+function index(){
+	echo 'success';
+}
 ?>

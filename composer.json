@@ -12,5 +12,8 @@
             "email": "9232@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+	"autoload": {
+        "psr-4": { "Rivsen\\Demo\\": "src" }
+    },
 }

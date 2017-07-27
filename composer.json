@@ -1,19 +1,10 @@
 {
-    "name": "shaozhihui/wddd",
-    "description": "wqdqwdqwdqw",
-    "type": "ff",
-    "require": {
-        "yiisoft/yii2-bootstrap": "^2.0"
-    },
-    "license": "ee",
+    "name": "administrator/mytest-one",
     "authors": [
         {
-            "name": "usernmae111",
-            "email": "9232@qq.com"
+            "name": "shaoo",
+            "email": "812572044@qq.com"
         }
     ],
-    "minimum-stability": "dev",
-	"autoload": {
-        "psr-4": { "Rivsen\\Demo\\": "src" }
-    },
+    "require": {}
 }

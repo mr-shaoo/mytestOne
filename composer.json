@@ -1,10 +1,12 @@
 {
-    "name": "shaozhihui/mytest-one",
+    "name": "mr-shaoo/mytest-one",
     "authors": [
         {
             "name": "shaoo",
             "email": "812572044@qq.com"
         }
     ],
-    "require": {}
+    "require": {
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+    }
 }
